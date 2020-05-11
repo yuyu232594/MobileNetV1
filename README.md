@@ -1,0 +1,3 @@
+# MobileNetV1
+transfer demo from tensorflow
+基于pytorch实现了MobileNetV1的代码，imagesourcepath是本地机存放图像的地址，root也是地址，根据自己项目的不同自行变换
